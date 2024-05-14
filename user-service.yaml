@@ -1,0 +1,15 @@
+datasource:
+  driver-class-name: org.h2.Driver # Database를 H2로 사용하겠다.
+  url: jdbc:h2:~/test # H2 접속 정보
+  username: sa # H2 접속 시 입력할 username 정보 (원하는 것으로 입력)
+  password: "{cipher}AYCdXg49Hjz74GcFy/Aoe88TtMjsiElSUja2kJEnWbp7wvquWs0rwT9V+6+qPaW47otu6jCqV8f8WbHOTB03fdOpul1RQpKbCGRSmUvoq2fcyun+4meSBTA/rk1d+JHo+0TBZxQtgzJc5uMQnzl8hfvq4raMjCKJG3K+dFnB7kX3JSMCwyJAzRPhwneJBz5nOBlMNNDy3xH2q7jLl9DAKKobMB3kRR6lLdx+ocpjnY/35yLfwHwHO170eAUy/L2Oaje8fDMCPp21PTk50+7VwPF3kN+euKum1tMtgL7DaCam6vO68i641OQjdRbGUGltbv0/s78qtVfyvOsE37h6PBq16BxJqHeuxerzXKQZRUHfGgFdimkQUU1CZzOMe3KNoQGnHNZOqQAR23y56QSVeED1jyPqD0e+4D88cCd5e+ckqJdnqxwZ40hvuSdJNZ8FR+R9TwgXfBk1uMyMM24U33rO1dzCOHpITfvnG8Okc8e/Iyj3KzWyk0RYJdYsxG7+AciZNe0WmXP27WWgJKQG2GmH7otikKmoUlLJDbcocpYRQA=="
+
+# token:
+#   expiration_time: 8640000
+#   secret: helloeveryonewelcometoanotherexitinggame123_changezz
+
+gateway:
+  ip: 172.30.1.100
+
+order_service:
+  url: http://ORDER-SERVICE/order-service/%s/orders

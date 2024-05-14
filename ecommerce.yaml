@@ -1,0 +1,10 @@
+# token:
+#   expiration_time: 8640000
+#   secret: "{cipher}AYA71BbuZJ4nKZqXtRVglxwmtZDiEE9wcDnnZj3K
+#   NOL7WL2PYp7Zzer56ADlCroLZ/OY+mvKg/uXvYztgPiG97nPuTTWIJrJGshxFPi+seq
+#   rX231Qd2ei8aftsYcwsLBL/EWab5rWlWrixdYW72T6SvlzKKXScU2TYR+ZkiN896Qt6+rn0KJ2RoGOYTyQhXJ84GkGEJnYVNGgtKYjMQ5K+I8njXvsE
+#   7cyehGUZTQxu09Qk2gTbpMuYIzc+rm6oKRXRZsqIF8QK6pW6Ux/Lca14obQYcXkLxH2fzhB7BaOpNa+3gGmtzAJcXLmsLx6ASoA2+oSxC4LLLxtIzquBbbxl9kevKZ+SpxydhUNMa
+#   D+5j8rj3ZBccdL+dC87VX+5slCAaO0lZjtWiZBbbla6jbkuvdhNiYypFZRJJSNT4PfkaMCNkNrQ7rFaO2yXJDKcO1S7bOzCxdhbKwhUoh9F/kxtV1xahOLoCCF/g68FK44+0gVopV
+#   9J1Ega6LSJ9k/W+jDBpGF4/4wNy67B9bnKxycuS5M0PWlHY2zYTeFjMUGLjfuXVbNbtJ/MqyCKlHkLQ/f/BbXwWCqF8i/jtgrmJKYDfNZglXmV8sXhvJ7/mF2qIBlw=="
+gateway:
+  ip: 172.30.1.100
