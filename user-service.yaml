@@ -9,7 +9,7 @@ datasource:
 #   secret: helloeveryonewelcometoanotherexitinggame123_changezz
 
 gateway:
-  ip: 172.30.1.100
+  ip: 172.18.0.3
 
 order_service:
   url: http://ORDER-SERVICE/order-service/%s/orders
